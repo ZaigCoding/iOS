@@ -1,0 +1,23 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target x86_64-apple-ios14.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ZaigIosDeviceScan
+import AdSupport
+import CommonCrypto
+import CoreLocation
+import CoreTelephony
+import Foundation
+import MessageUI
+import Swift
+import UIKit
+@_exported import ZaigIosDeviceScan
+@objc @_hasMissingDesignatedInitializers public class DeviceScanController : ObjectiveC.NSObject {
+  @objc deinit
+  @objc override dynamic public init()
+}
+@objc public class ZaigIosDeviceScan : ObjectiveC.NSObject {
+  public init(environment: Swift.String, mobileToken: Swift.String, sessionId: Swift.String) throws
+  @objc public func requestPermissions(permissions: [Swift.String])
+  @objc public func collectData(documentNumber: Swift.String?, eventId: Swift.String?, eventType: Swift.String?, onSuccessHandler: @escaping () -> Swift.Void, onErrorHandler: @escaping () -> Swift.Void) throws
+  @objc deinit
+  @objc override dynamic public init()
+}
