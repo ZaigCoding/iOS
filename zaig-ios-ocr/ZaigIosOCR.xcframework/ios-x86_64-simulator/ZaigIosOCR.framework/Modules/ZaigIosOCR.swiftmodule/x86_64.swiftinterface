@@ -1,0 +1,85 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target x86_64-apple-ios14.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ZaigIosOCR
+import AVFoundation
+import Foundation
+import Swift
+import UIKit
+@_exported import ZaigIosOCR
+public class ZaigIosOcrConfiguration {
+  public init(environment: ZaigIosOCR.ZaigIosOcrEnvironment, mobileToken: Swift.String, documentSteps: ZaigIosOCR.ZaigIosOcrDocumentFlow, backgroundColor: Swift.String?, fontColor: Swift.String?, showIntroductionScreens: Swift.Bool?)
+  @objc deinit
+}
+public enum ZaigIosOcrEnvironment {
+  case Sandbox
+  case Production
+  public static func == (a: ZaigIosOCR.ZaigIosOcrEnvironment, b: ZaigIosOCR.ZaigIosOcrEnvironment) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public enum ZaigIosOcrDocumentFlow {
+  case CnhFull
+  case CnhFrontAndBack
+  case CnhFront
+  case CnhBack
+  case RgFrontAndBack
+  case RgFront
+  case RgBack
+  public static func == (a: ZaigIosOCR.ZaigIosOcrDocumentFlow, b: ZaigIosOCR.ZaigIosOcrDocumentFlow) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public protocol ZaigIosOcrControllerDelegate : AnyObject {
+  func zaigIosOcrController(_ ocrViewController: ZaigIosOCR.ZaigIosOcrController, didFinishWithResults response: ZaigIosOCR.ZaigIosOcrControllerResponse)
+  func zaigIosOcrController(_ ocrViewController: ZaigIosOCR.ZaigIosOcrController, didFailWithError error: ZaigIosOCR.ZaigIosOcrControllerError)
+  func zaigIosOcrController(_ ocrViewController: ZaigIosOCR.ZaigIosOcrController)
+}
+@objc public class ZaigIosOcrController : ObjectiveC.NSObject {
+  weak public var delegate: ZaigIosOCR.ZaigIosOcrControllerDelegate?
+  public init(ocrConfiguration: ZaigIosOCR.ZaigIosOcrConfiguration)
+  public func getViewController() -> UIKit.UIViewController
+  @objc deinit
+  @objc override dynamic public init()
+}
+@_hasMissingDesignatedInitializers public class ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class InvalidMobileToken : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MissingPermission : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class NetworkFailure : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class ServerFailure : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MissingStorage : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class LowImageQuality : ZaigIosOCR.ZaigIosOcrControllerError {
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class ZaigIosOcrControllerResponse {
+  @objc deinit
+}
+public struct OcrResponse {
+}
+public enum ZaigIosOcrDocumentTemplate {
+  case CnhFull
+  case CnhFront
+  case CnhBack
+  case RgFront
+  case RgBack
+  public static func == (a: ZaigIosOCR.ZaigIosOcrDocumentTemplate, b: ZaigIosOCR.ZaigIosOcrDocumentTemplate) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
