@@ -1,0 +1,11 @@
+framework module ZaigIosFaceRecon {
+  umbrella header "ZaigIosFaceRecon.h"
+
+  export *
+  module * { export * }
+}
+
+module ZaigIosFaceRecon.Swift {
+    header "ZaigIosFaceRecon-Swift.h"
+    requires objc
+}
