@@ -6,31 +6,31 @@
 	<dict>
 		<key>CapturePictureViewController.nib</key>
 		<data>
-		mpGlr2moIsINjtYRnfrSAS0GRYw=
+		nptzOk19Rqy2g9hHS3wpMOVdBKg=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		zX015bqyjPdQSWUyCTqt1nWei8s=
+		7vXj5/jRcenE0EMZfnoI3T7ZIVA=
 		</data>
 		<key>DocumentBackIntroViewController.nib</key>
 		<data>
-		Bifp0/kNRZ2wPgmWMiSyjxwIvk4=
+		9zUqz3UHL93e5jrgluA2EdGEGfo=
 		</data>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<data>
-		jBY4N0bNy3NMaW3boX7vTJcSqA8=
+		6tdP3SIgFkGTApXFisZb4NoWvI8=
 		</data>
 		<key>DocumentFullIntroViewController.nib</key>
 		<data>
-		Lfz6MwKh+qzg5THEsm9Tj7ff/Wo=
+		xJKD4DmcOri9wrz7f2X/2I4FsLY=
 		</data>
 		<key>ErrorViewController.nib</key>
 		<data>
-		dnx12uLU95FawGDauSbnYKJbRhI=
+		j2/LuUwW8zoclfiF/pCuQlRTZzM=
 		</data>
 		<key>FirstPageViewController.nib</key>
 		<data>
-		GNNDlUGRqFskBiwzOELomORYBkM=
+		7MQXwMDU/WYB1xiZQG6k/GPjSPc=
 		</data>
 		<key>Headers/ZaigIosOCR-Swift.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>SuccessViewController.nib</key>
 		<data>
-		sJtlHAmyAr1Vbv0R9rHnV2vbLC4=
+		5BJnXDNKlvgYWj1tqh3JbnM49lg=
 		</data>
 		<key>back_button.png</key>
 		<data>
@@ -167,49 +167,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qeSp4AAF1+z4WsCX5nAAeTtPTt6CC4eaNU0tfrmu89Q=
+			X6Kk1gbuU+aR+FZJdHTqC2IbfDK9/9IA5eH7d4Ye674=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ipDjL/k/v4qmXH5Un01QSjql82GMUJ+HoTXlJr08XRI=
+			p+MS5QD40YUh3t5TCsAFUlAEHJ9Qq49iSjCfSmDafk0=
 			</data>
 		</dict>
 		<key>DocumentBackIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nRpEj18MTye7aWMLNX3Vhite5zfgshy/81iAkoCx+bs=
+			o3ARUsK92AhK9I7C3VMxZQyEFZD13DRYzr2qw4ySDHA=
 			</data>
 		</dict>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kvtERcN2mpqmmrWXGqcmuNBpRn33Umgnvlao0pqpsWA=
+			tw1D2yi7Ld7v/B7j1jjWhv5xhnej4gSSW9GWpJMm5l0=
 			</data>
 		</dict>
 		<key>DocumentFullIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IeP+n+ZPCrlGEk5Y50GC4ObkpIGoyXFxPSAycnMoQ0c=
+			WuPe4eHfA/Un1irLE9Oo+x/p8QjCELDk4ZXF3IWHoz0=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ypjZ/esOSEjO9oL6aLDeuIaYbAtSkRTdqFdnuLTgrk=
+			x54EFk2kNASMB4JYlO7+/nmuurwSIOMPKTVtanqMyYI=
 			</data>
 		</dict>
 		<key>FirstPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iU/05irc/Hv3IQlW0fit+OsajkyzJ+9kjmvdyhKdCck=
+			MDHk7+yxhRCy46DoB31sxfTDLYvNUnfgrsIY2/+X++0=
 			</data>
 		</dict>
 		<key>Headers/ZaigIosOCR-Swift.h</key>
@@ -363,7 +363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v1Hi+Vo7HyfYDQNqVcYSnAQh9raGbeRdDLL3JlVdoZc=
+			YvHE9jB2Csagh7TCcQcho7kjIJzEBJg1iWEFIonqhoA=
 			</data>
 		</dict>
 		<key>back_button.png</key>
