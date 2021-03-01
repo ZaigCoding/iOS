@@ -67,9 +67,12 @@ public protocol ZaigIosOcrControllerDelegate : AnyObject {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ZaigIosOcrControllerResponse {
+  public var OcrResponses: [ZaigIosOCR.OcrResponse]
   @objc deinit
 }
 public struct OcrResponse {
+  public var OcrKey: Swift.String
+  public var DocumentTemplate: ZaigIosOCR.ZaigIosOcrDocumentTemplate
 }
 public enum ZaigIosOcrDocumentTemplate {
   case CnhFull
