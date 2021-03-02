@@ -1,0 +1,11 @@
+framework module ZaigIosDeviceScan {
+  umbrella header "ZaigIosDeviceScan.h"
+
+  export *
+  module * { export * }
+}
+
+module ZaigIosDeviceScan.Swift {
+    header "ZaigIosDeviceScan-Swift.h"
+    requires objc
+}
