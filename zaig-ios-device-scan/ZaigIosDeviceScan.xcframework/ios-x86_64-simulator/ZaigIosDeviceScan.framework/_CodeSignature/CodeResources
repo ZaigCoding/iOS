@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YiHqYEB+vDxpmKETaS/Up3cO/rY=
+		xfQC4bIYat+Ugezyy0qjMEtQsHE=
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		YiHqYEB+vDxpmKETaS/Up3cO/rY=
+		xfQC4bIYat+Ugezyy0qjMEtQsHE=
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eWvq145Z8Eo7Yg2jWCStHLaqgRw=
+		dUPzjachW/dGpUs24mrmWTytLGA=
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		eWvq145Z8Eo7Yg2jWCStHLaqgRw=
+		dUPzjachW/dGpUs24mrmWTytLGA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YiHqYEB+vDxpmKETaS/Up3cO/rY=
+			xfQC4bIYat+Ugezyy0qjMEtQsHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2LNyRRVHFI/oslivaMgbU7o4aAhhy+6dXjl7g1vMvsw=
+			HW8c9sCE0Qn0bdhpSSntB5Bp7tMGq77UHh9Ms7MMhgo=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YiHqYEB+vDxpmKETaS/Up3cO/rY=
+			xfQC4bIYat+Ugezyy0qjMEtQsHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2LNyRRVHFI/oslivaMgbU7o4aAhhy+6dXjl7g1vMvsw=
+			HW8c9sCE0Qn0bdhpSSntB5Bp7tMGq77UHh9Ms7MMhgo=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eWvq145Z8Eo7Yg2jWCStHLaqgRw=
+			dUPzjachW/dGpUs24mrmWTytLGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			gOxKp6nsJKjV+1dBLJF1k2BGk3RMDdEsiFq/apcnsXw=
+			NYfuAdCVlZiV9Q3vRAY/MS5OXxtJhSa+HEQr0Zn85CQ=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosDeviceScan.swiftmodule/x86_64.swiftdoc</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eWvq145Z8Eo7Yg2jWCStHLaqgRw=
+			dUPzjachW/dGpUs24mrmWTytLGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			gOxKp6nsJKjV+1dBLJF1k2BGk3RMDdEsiFq/apcnsXw=
+			NYfuAdCVlZiV9Q3vRAY/MS5OXxtJhSa+HEQr0Zn85CQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
