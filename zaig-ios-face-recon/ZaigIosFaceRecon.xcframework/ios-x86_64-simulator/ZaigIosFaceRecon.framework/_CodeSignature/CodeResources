@@ -6,19 +6,19 @@
 	<dict>
 		<key>CapturePictureViewController.nib</key>
 		<data>
-		sl5nfT437tsXmzIJVmpMUotQlnA=
+		dZGxy88IcKchcAhkkURBQScbm9M=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		FTevGMkZQhvc/ZjysI5nx5DMato=
+		UWW0Slbsy2avyOuciuCGN4KN6rc=
 		</data>
 		<key>ErrorViewController.nib</key>
 		<data>
-		sdoi30FXLuyfZUvrkw5a0Wkt1bA=
+		Qn6ENHgT7UEvr+3/hbZp8sNagXA=
 		</data>
 		<key>FirstPageViewController.nib</key>
 		<data>
-		/oQahmX2Ax4CmYida8Ws3v5m5Aw=
+		cQiCIRhgczdk0IkrwJxLe9+gjY8=
 		</data>
 		<key>Headers/FaceReconImageAnalysisBridge.h</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>SecondPageViewController.nib</key>
 		<data>
-		/1tsFPTaQS8bhQN6b/WN07S7vtM=
+		P7YQ9t1kXiE1ol7bz79mWD0YzEY=
 		</data>
 		<key>SuccessViewController.nib</key>
 		<data>
-		bZ5DKrsF+Jgq7OdA8xNHC0W+bxM=
+		iT9CybiBJhwQtFEIFIysm4ZH/5g=
 		</data>
 		<key>camera_2.png</key>
 		<data>
@@ -167,28 +167,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DeXd1PwebijYtWWiG1lnBnMrxXYCuIoqqVJNmkx/pwE=
+			4o+Yc/iepgN5S9p58FW8mc1iNcgQT4nIczC5tE0LcEE=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4m/ZExcAas0neccRlFuTKlRW/fp4JCGp2vgM18R2Dfs=
+			pdEApc0Wb4VmVVdkhYdFikzbekPkB/h+VoUnalMJdy0=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			umt+GDugV+8KgdjyaZUXfVcpgkxvWRuIrgv8zwjGb2M=
+			eWbXxiebHsz6GQKgZH8BljzZhf5N0j2eGKMi08JPdSE=
 			</data>
 		</dict>
 		<key>FirstPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r4SGpxQK2NPgGkF6z1GAKeV9KriYSM4MWut8JKw0hYk=
+			BOg8jvoB6577tfUk/XgBvfg5rjjW+cL9w7vYoX4EeB0=
 			</data>
 		</dict>
 		<key>Headers/FaceReconImageAnalysisBridge.h</key>
@@ -356,14 +356,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Pfzi+9UDlaxeYmzpCoZNXeqZKW/JmwpUPUYFoonpz8=
+			Jqn+ORoBVfKmdVqgDzu46Acvz17eiPQjOHoiDiToCoU=
 			</data>
 		</dict>
 		<key>SuccessViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A95mp8vra58cThe/lUwqwZE8mbkOjCRZmemGebDyZQg=
+			/ctbeU32dvirstmlSdgSF0Biufdoe++mcmhm68pdp2c=
 			</data>
 		</dict>
 		<key>camera_2.png</key>

@@ -6,19 +6,19 @@
 	<dict>
 		<key>CapturePictureViewController.nib</key>
 		<data>
-		P/F/Dor7hQ2LuoYRuxM3i+BmGuQ=
+		1dJadFriLPgH5bMgyUeaA3z3f5s=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		P9Ahgucmundg/QQr0PqlXJarTZQ=
+		HBy3+V7UHJatFcovIOnwidEUoXE=
 		</data>
 		<key>ErrorViewController.nib</key>
 		<data>
-		4a0lXqEAqyJo1fj0tpqN/p1esQE=
+		c6dlAuNM/+EJW6f7ydnQ2X3xZ6E=
 		</data>
 		<key>FirstPageViewController.nib</key>
 		<data>
-		RdBseu6IinNhYMq+KqzYLzqP6ds=
+		H1AZtfwPhI5fPCW9mJYp5VgqMvY=
 		</data>
 		<key>Headers/FaceReconImageAnalysisBridge.h</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>SecondPageViewController.nib</key>
 		<data>
-		ZkHzBPMfZIQsneIjx4W/7jDWLNU=
+		MgsLw/5U8XwQm4gvnt7ixdjXOg0=
 		</data>
 		<key>SuccessViewController.nib</key>
 		<data>
-		az49/Qvxvbf7Y5qcEJD/bxKnvns=
+		HBIlXLVFSCjbCNe1pQQLbyPleog=
 		</data>
 		<key>camera_2.png</key>
 		<data>
@@ -167,28 +167,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5mntSUZar+YtyltigwcLBTib/Z7Q4Zr5lsUuzUDwdSM=
+			dnqkPfr0+RQjNpcprdluIVJFRHDNsRTu/QKFHqXZwdk=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UE/kUIlo4W+rA8yPzHN8CLWvl53DF7vCXUe/0/JgLwI=
+			/bs6lMgvnF89IZZsd6FRMcpPFnTxSHINrBuoUJoi4x8=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ri913qPiAQ/EJQ98QP+/GnnijgbRuA0aSDbOYnZtjog=
+			NeE1wED/H9I+40HasgBx39xeMKW9dGKsnjZvedZQYO8=
 			</data>
 		</dict>
 		<key>FirstPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yNT23zyHbHGUyN5vM3HJygEG2l2XhNKFRMY2A2yrKnc=
+			MW3+nkq82oGP2zN+/ay9ALRkGdYJ40axQ54FTPVHlD0=
 			</data>
 		</dict>
 		<key>Headers/FaceReconImageAnalysisBridge.h</key>
@@ -356,14 +356,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I9uPmMwtTCt+8OyGG0d8fL9t44xMXJuRBlE857LtsMw=
+			+ndWxFSVHrd87BQlST5ZAnK1jbXSZfZAygqoIclEDlQ=
 			</data>
 		</dict>
 		<key>SuccessViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IuhBkmTVvQb0aDwZUWcmrQn7YDrkH3e8LwSp+t5t7/I=
+			uNsptzvQJyBwOFB8jmIPl32R/0sweHvfX7YHiKKEuJc=
 			</data>
 		</dict>
 		<key>camera_2.png</key>
