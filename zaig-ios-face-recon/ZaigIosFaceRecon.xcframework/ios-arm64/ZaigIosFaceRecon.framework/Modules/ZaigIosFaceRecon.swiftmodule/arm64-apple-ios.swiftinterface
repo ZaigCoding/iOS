@@ -1,0 +1,67 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ZaigIosFaceRecon
+import AVFoundation
+import Foundation
+import MLKit
+import Swift
+import UIKit
+@_exported import ZaigIosFaceRecon
+public struct ZaigIosFaceRecognitionConfiguration {
+  public init(environment: ZaigIosFaceRecon.ZaigIosFaceRecognitionEnvironment, mobileToken: Swift.String, backgroundColor: Swift.String?, fontColor: Swift.String?, showIntroductionScreens: Swift.Bool?, activeFaceLiveness: Swift.Bool?, audioConfiguration: ZaigIosFaceRecon.AudioConfiguration)
+}
+public enum ZaigIosFaceRecognitionEnvironment {
+  case Sandbox
+  case Production
+  public static func == (a: ZaigIosFaceRecon.ZaigIosFaceRecognitionEnvironment, b: ZaigIosFaceRecon.ZaigIosFaceRecognitionEnvironment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum AudioConfiguration {
+  case Enable
+  case Disable
+  case Accessibility
+  public static func == (a: ZaigIosFaceRecon.AudioConfiguration, b: ZaigIosFaceRecon.AudioConfiguration) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol ZaigIosFaceRecognitionControllerDelegate : AnyObject {
+  func zaigIosFaceRecognitionController(_ faceRecognitionViewController: ZaigIosFaceRecon.ZaigIosFaceRecognitionController, didFinishWithResults response: ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerResponse)
+  func zaigIosFaceRecognitionController(_ faceRecognitionViewController: ZaigIosFaceRecon.ZaigIosFaceRecognitionController, didFailWithError error: ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError)
+  func zaigIosFaceRecognitionControllerDidCancel(_ faceRecognitionViewController: ZaigIosFaceRecon.ZaigIosFaceRecognitionController)
+}
+@objc public class ZaigIosFaceRecognitionController : ObjectiveC.NSObject {
+  weak public var delegate: ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerDelegate?
+  public init(faceRecognitionConfiguration: ZaigIosFaceRecon.ZaigIosFaceRecognitionConfiguration)
+  public func getViewController() -> UIKit.UIViewController
+  @objc override dynamic public init()
+  @objc deinit
+}
+public struct ZaigIosFaceRecognitionControllerResponse {
+  public var FaceRecognitionKey: Swift.String?
+}
+@_hasMissingDesignatedInitializers public class ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class InvalidMobileToken : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MissingPermission : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class NetworkFailure : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class ServerFailure : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MissingStorage : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class LowImageQuality : ZaigIosFaceRecon.ZaigIosFaceRecognitionControllerError {
+  @objc deinit
+}

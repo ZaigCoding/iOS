@@ -4,25 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>CapturePictureViewController.nib</key>
+		<key>CapturePictureViewController.nib/objects-14.0+.nib</key>
 		<data>
-		39IIIrFrOu+nCtsVf9gsytQ43TY=
+		Yarqj+vIMRRRT1dFqcV1P97lrss=
+		</data>
+		<key>CapturePictureViewController.nib/runtime.nib</key>
+		<data>
+		sgO9xcvd3/71HJhIvsI5qsToBgE=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		HbBBRvH1WMF5I2tTNyGx3BkASFY=
+		1yMLHjxUmkRB2J6okQGDzCyTtmo=
 		</data>
-		<key>ErrorViewController.nib</key>
+		<key>ErrorViewController.nib/objects-14.0+.nib</key>
 		<data>
-		SFZ7i/nlfUDfyVwe7szQ76WKXwI=
+		f9Xczkb7yzZF3IK50+bagH+JKWQ=
 		</data>
-		<key>FaceLivenessCameraViewController.nib</key>
+		<key>ErrorViewController.nib/runtime.nib</key>
 		<data>
-		wrz+Awa7b9mtA8mkqMuDVKxdEQ0=
+		qb46OpY6JEraWTzXcW7ucoJWjv0=
 		</data>
-		<key>FirstPageViewController.nib</key>
+		<key>FaceLivenessCameraViewController.nib/objects-14.0+.nib</key>
 		<data>
-		rae2YBJN5Tq1+XaNiFv3xNzuXac=
+		o8urEsx1OQ4wXLHNV8SEt2gaFZc=
+		</data>
+		<key>FaceLivenessCameraViewController.nib/runtime.nib</key>
+		<data>
+		ODx9JXyorkrenTsIt78ZGL7OBRY=
+		</data>
+		<key>FirstPageViewController.nib/objects-14.0+.nib</key>
+		<data>
+		O/UTRsWTM0V9kB0RY6I0GXmVcCs=
+		</data>
+		<key>FirstPageViewController.nib/runtime.nib</key>
+		<data>
+		XQKF4fsOlzvgYL8zn14knkRmlpY=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -90,31 +106,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cGpFQC1+g24f4QhnN9sY8zmkKbw=
+		5UFH0YQCAGKl0ohVWaeA/xlGxYI=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		44cEDkwW69TS/Yj0FX5i7Vd7X3w=
+		LJWbCD+97JqNpV+6P2NV/4aGag4=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		44cEDkwW69TS/Yj0FX5i7Vd7X3w=
+		LJWbCD+97JqNpV+6P2NV/4aGag4=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		2K2Gffpdip+Wec7txFdyeUcPQJ8=
+		2hOkDxvS5AMfwLYB8JjYaalYoKw=
+		</data>
+		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		Ec/FavkYP3OU5N+vzzI53vzYZjM=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WmIQjduE/fxfosEdhBuhXTaP4/Q=
+		nGDCIiq3OacgwUcax5Kz2yOyrNI=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		2K2Gffpdip+Wec7txFdyeUcPQJ8=
+		2hOkDxvS5AMfwLYB8JjYaalYoKw=
+		</data>
+		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		Ec/FavkYP3OU5N+vzzI53vzYZjM=
 		</data>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		WmIQjduE/fxfosEdhBuhXTaP4/Q=
+		nGDCIiq3OacgwUcax5Kz2yOyrNI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -164,13 +188,21 @@
 		<data>
 		sXtbVIcgaz7uC5Frhc6v7szsRwU=
 		</data>
-		<key>SecondPageViewController.nib</key>
+		<key>SecondPageViewController.nib/objects-14.0+.nib</key>
 		<data>
-		vNaMcP1V89RVCgYJz+/SpqoYzr4=
+		SfIOg2DcPIe0ariY0u4yUZKFVlc=
 		</data>
-		<key>SuccessViewController.nib</key>
+		<key>SecondPageViewController.nib/runtime.nib</key>
 		<data>
-		bNPkdL4nG+5TFneGi+AmXGu0os0=
+		ymAFwvXBwJpb4CudC1mlYaRrjHk=
+		</data>
+		<key>SuccessViewController.nib/objects-14.0+.nib</key>
+		<data>
+		a0wcm5njqHe0FFm0gACO1tZ9KWA=
+		</data>
+		<key>SuccessViewController.nib/runtime.nib</key>
+		<data>
+		rWKxRyv0aCsQNIT6HySDFOpRHfY=
 		</data>
 		<key>camera_2.png</key>
 		<data>
@@ -259,39 +291,67 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>CapturePictureViewController.nib</key>
+		<key>CapturePictureViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tt7s8axcluJwgFQkTafQhWQrYExdc42JLjwWrTJ6cUk=
+			E4L3LklE9QBhBr2YSlO8484AnztaN9QRqkUaDhpul2c=
+			</data>
+		</dict>
+		<key>CapturePictureViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mu9m52gCIMChvM/+nAvk9O2hAFAHR6gWKwnqN43JoAI=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+NkxMQZz02/LHEm7t+DDYWKgg6wsYJiump0q60iJdAE=
+			6q01O7vMlLUpibO+3/spyBFOMoLG4T6bXixDGh0E+bI=
 			</data>
 		</dict>
-		<key>ErrorViewController.nib</key>
+		<key>ErrorViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FDiVlocT8jfdp/pkF8KKlUkbMC9Dzm9mklXqaAR4msk=
+			YzIBVP7LrfIBVsGewwT2uAzSH1iBeLFjXOmZ+qojOds=
 			</data>
 		</dict>
-		<key>FaceLivenessCameraViewController.nib</key>
+		<key>ErrorViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lcGtkpkK9ONZkjX/UNorZZr92ACaV7U5TEbr2RspLp4=
+			4lE4G5xtuey8vw5Zefhtk4n+TDwaeL/Awufvek+jSRc=
 			</data>
 		</dict>
-		<key>FirstPageViewController.nib</key>
+		<key>FaceLivenessCameraViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LWPo0xSGwsAVFV5NH67GU4O85vk6LvMhjTl+8itJDHg=
+			B5ZgB7BaoWaWLithVIWcbSpCpodAQ9ASlf1YbRTsv4Y=
+			</data>
+		</dict>
+		<key>FaceLivenessCameraViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cqFOYdbYa3nAWXvINZQYy7LMvDL25bqZP7qh6HTwe1w=
+			</data>
+		</dict>
+		<key>FirstPageViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XazoK3+02lGHhwOkKx1fkXdsfjm7es1dC5bq+tjmQUo=
+			</data>
+		</dict>
+		<key>FirstPageViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zUt0zrroOVubADPhRhYWzDAYmHy5Tzn22KLF6FCR+jY=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -410,42 +470,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gASeU5+/vUXvltWRcNh3lHt22U5S9f1RjwlUn4tIwJU=
+			dl+fogKwRNStwhKp344jmS27LEHrqWWHopLLYgYfLXg=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gASeU5+/vUXvltWRcNh3lHt22U5S9f1RjwlUn4tIwJU=
+			dl+fogKwRNStwhKp344jmS27LEHrqWWHopLLYgYfLXg=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m5lE9akGKTp+mGneRloiZ/pqGx/ojaTr0X4KJ4U/oGE=
+			Tj/iXlhyL3YInOgxNtsWeAaHMNo7L8gaXyUwRYE+WUA=
+			</data>
+		</dict>
+		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x15sBwgMoulxhwgr2jR5D1nSqK+5c7XJXPV+zQtTetY=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			adL+T1ulpnDiQrpXLwF4t6vjArB3USxhFk0GkBxO8I0=
+			I+4y6J8U5Z+Fx04zyl3pLXTHXFj3IXfwwx8+2MARoh0=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m5lE9akGKTp+mGneRloiZ/pqGx/ojaTr0X4KJ4U/oGE=
+			Tj/iXlhyL3YInOgxNtsWeAaHMNo7L8gaXyUwRYE+WUA=
+			</data>
+		</dict>
+		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x15sBwgMoulxhwgr2jR5D1nSqK+5c7XJXPV+zQtTetY=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosFaceRecon.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			adL+T1ulpnDiQrpXLwF4t6vjArB3USxhFk0GkBxO8I0=
+			I+4y6J8U5Z+Fx04zyl3pLXTHXFj3IXfwwx8+2MARoh0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -532,18 +606,32 @@
 			J81/FVEUixSAKmxWPw7d8DuYNzDJHWONeJAhpIaNCtk=
 			</data>
 		</dict>
-		<key>SecondPageViewController.nib</key>
+		<key>SecondPageViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcQydACWBzT/lCvwv70bxdFEnEq0pukQQCiZ1R+k31c=
+			7Fdv6qG0rK3jpaCh/YqGaMSyul184i69cRtfJNjTeA8=
 			</data>
 		</dict>
-		<key>SuccessViewController.nib</key>
+		<key>SecondPageViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			opS4hbc20FtsgOxEGrTroTNQYkgm5gnEWasawE/dUIs=
+			uCkNt66UUld6rW8mjoGybcfmtGboOCPkg60HW/091UI=
+			</data>
+		</dict>
+		<key>SuccessViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WqDbB/4K0fY7sS67TaNPXkixfcLg4xiVs7oTZnxO/7k=
+			</data>
+		</dict>
+		<key>SuccessViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			inCzTNsaCvvw4cNtkoNMEoNcDaXLKabx8S4cYDE4XJo=
 			</data>
 		</dict>
 		<key>camera_2.png</key>
