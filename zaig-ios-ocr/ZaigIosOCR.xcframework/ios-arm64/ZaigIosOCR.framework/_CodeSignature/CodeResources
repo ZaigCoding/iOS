@@ -6,35 +6,35 @@
 	<dict>
 		<key>CaptureLandscapePictureViewController.nib</key>
 		<data>
-		3ie/cD/lIvBGFO77X9qK0EF53T0=
+		CTQI/39w1TAsO8JREKi9gQt2eRc=
 		</data>
 		<key>CapturePictureViewController.nib</key>
 		<data>
-		Cvpe/UHJVbqL+vRFGpslDHQdToY=
+		j+pvaSHU9/o1CvfkNfA1mv/TJNs=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		XtDgexGjBzuXV2csbVTGYUqX8Ms=
+		K0JHKzelLWe5IJANbKsH70/DJJU=
 		</data>
 		<key>DocumentBackIntroViewController.nib</key>
 		<data>
-		wW4K7NqazlE8Ad5m6Lb3m6GaK6I=
+		poObeajs6/k+5E5/DeowqnQTsrc=
 		</data>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<data>
-		AAR43VpstWZCvV+5ZweXlqC+JnM=
+		b6m45XWGjfF0BkQYfaRp6ex36bk=
 		</data>
 		<key>DocumentFullIntroViewController.nib</key>
 		<data>
-		bQBijbijn98Oa8uW3D+VVt/PaM4=
+		BsClEtla2dcDv5TMgyb/xpIOlGc=
 		</data>
 		<key>ErrorViewController.nib</key>
 		<data>
-		9RjSjjUueCht5VpJDMoorsiqKXs=
+		L/nBjGfsnTjk9Hk0gumOAlrO1x4=
 		</data>
 		<key>FirstPageViewController.nib</key>
 		<data>
-		Ao+Ny3Vu/i+vmJTNUWN9ha+Gyb0=
+		iCOKPCCFIEiqYFjnB4W9QK7HZoM=
 		</data>
 		<key>Headers/ImageAnalysisBridge.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>SuccessViewController.nib</key>
 		<data>
-		8pGC5SxKb/2j3El8an/35zYCuIo=
+		brBR8LkSbhC1nV0Q8MakmUSdHuY=
 		</data>
 		<key>back_button.png</key>
 		<data>
@@ -183,56 +183,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6G/IX8F4w4ccHY00TOWUYIgw8ep1l289/nuOZiSfu0=
+			F/IjCY4sm2del3+R/QGs3hGgd3Pi05gHISZ8KxsUJNk=
 			</data>
 		</dict>
 		<key>CapturePictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fqt0MsLC1+Mvk1BNIsmN+xM0HVcDEJPihuYieMa5ue0=
+			5Zj/CgLXFn5rL6ecm/1R4eJjmL48oxYWTefrezCgSOU=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XvEFVlZbxbvwaXyd4Oj1H/dMh2pMlWHVycvGsPz9c+s=
+			Aj54CMqkt8HJCiU32XG3+21vPvMAbDc6AsDixEJTUGs=
 			</data>
 		</dict>
 		<key>DocumentBackIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fgcm8i3Ah/x3EXGjN0/BS2RdSePLrntmbtaWodwHM/A=
+			s2b6vzbEil1Iegb7UUOwo4ih73UcSKAg+zzNZfyZeDY=
 			</data>
 		</dict>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			stCrSzrFJ06jJG+7GGf+QzKtQ2ALSrWAJalWBIqvyIs=
+			pIoYOXEkDGyPW0jBOti9MBkt5DVYsC640TIfqpzkTTA=
 			</data>
 		</dict>
 		<key>DocumentFullIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rd65gfGOJdIilkRTVwRabBGI9wE3UCWUENG7qZr9sLY=
+			j2rkA+OKBF/+5sTUSXdtcB4Fnx6adSTLovgAN5JRMuQ=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q+9QoSGUgYemxrI3Ir4Ih8BPiPix2cpq1xZf3CzIJVk=
+			L9+RDOMeozXXnzmWH0/gJ1Ghn4GDQ8QLjL7oRnaO5HU=
 			</data>
 		</dict>
 		<key>FirstPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9pRR50Jk6Oh2kk0sYH3Av3CIWWuzsRuf9rIfMcOAyt4=
+			KF1FJ99LKkEpqKSipmjdouOUa/Y98oV69pCNBu9yf0M=
 			</data>
 		</dict>
 		<key>Headers/ImageAnalysisBridge.h</key>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CMcIfAoVk9LkLNj41nyORf00Uy/92n8BwFIS6FbL258=
+			2vr/UhEWdS6xYnM9KsbAohWKBI+0UGZrA9ujz6qe98E=
 			</data>
 		</dict>
 		<key>back_button.png</key>
