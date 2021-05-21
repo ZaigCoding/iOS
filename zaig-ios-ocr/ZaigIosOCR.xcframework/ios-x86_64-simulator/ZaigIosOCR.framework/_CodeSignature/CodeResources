@@ -6,35 +6,35 @@
 	<dict>
 		<key>CaptureLandscapePictureViewController.nib</key>
 		<data>
-		ociTz5zeVlgzdKG2Zhh45qcnvtM=
+		5w+X/ct1x+TpxEpc9Y11AfDJbHc=
 		</data>
 		<key>CapturePictureViewController.nib</key>
 		<data>
-		7dPZN5ey9AMpJlXXZthh5Yr7ijo=
+		NO0X4nL/Hb3EGVdR1CG6m0+pMyk=
 		</data>
 		<key>DisplayPictureViewController.nib</key>
 		<data>
-		/w1kjjskGEBwCba4nnzYFh+UIIc=
+		MQGgFLXKBuub5G2UwUKBuTcIHsI=
 		</data>
 		<key>DocumentBackIntroViewController.nib</key>
 		<data>
-		utrzTagpjxU3ixmfQpcNCQNQeDY=
+		B9614Gw5feVlcinvuru2pJWtIH0=
 		</data>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<data>
-		73Gi6aEV3Cu5ECQ3u9P00+IP4sE=
+		Y0nX89929QiFai5w7+Rorbztcm4=
 		</data>
 		<key>DocumentFullIntroViewController.nib</key>
 		<data>
-		nFyA66Kjf9Hg/W4qjmC3qw+3a2o=
+		WY+E+/m7KE93lNqpa+8IZvHSqeM=
 		</data>
 		<key>ErrorViewController.nib</key>
 		<data>
-		DCQmudjdg8KFw5oSRzFI+CzUPro=
+		UJdiPQUl+JFbv9AkRCamxx5s7a0=
 		</data>
 		<key>FirstPageViewController.nib</key>
 		<data>
-		xrs5rbc9yz4h/KwDAPbbTnrxv8M=
+		AvYs9xHddeg7OzK1fFAb86MPYO4=
 		</data>
 		<key>Headers/ImageAnalysisBridge.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/ZaigIosOCR-Swift.h</key>
 		<data>
-		J6tj11AtfcdCT4h+fGbajYKIZPQ=
+		4f1773dErgyX+HrnhhCJspLU3P4=
 		</data>
 		<key>Headers/ZaigIosOCR.h</key>
 		<data>
@@ -50,31 +50,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kv8PeX3U50PS8eR1qJ4LJnICxR4=
+		apU9f0mTF5IWwrBETLYOF1+3Pqk=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		BKrXnF4MXOgxxXOYPNRZ/687fDc=
+		h6y1a8Pos2/YLn1zwzr4JKuau8o=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		BKrXnF4MXOgxxXOYPNRZ/687fDc=
+		h6y1a8Pos2/YLn1zwzr4JKuau8o=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vbrlzKifYPzfgTaRR6Yv0oEKkN0=
+		YK8AcIduUiHB1Xvd6gNb2xX8OWU=
+		</data>
+		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		ATTNI+Q3u8/N/jGmSAvnGuefjQ8=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0VHKmg8ZQn73x5DN0QCQVxmcJdE=
+		LYCfb5VT2Nj+pUj5FYDp+OENnE0=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		vbrlzKifYPzfgTaRR6Yv0oEKkN0=
+		YK8AcIduUiHB1Xvd6gNb2xX8OWU=
+		</data>
+		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		ATTNI+Q3u8/N/jGmSAvnGuefjQ8=
 		</data>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0VHKmg8ZQn73x5DN0QCQVxmcJdE=
+		LYCfb5VT2Nj+pUj5FYDp+OENnE0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,7 +130,7 @@
 		</data>
 		<key>SuccessViewController.nib</key>
 		<data>
-		/tDKlHEW+3U/+ZQbeIv9YWcUIeY=
+		RSX/2LISb4iOz0EEpwcBl3DhFFg=
 		</data>
 		<key>back_button.png</key>
 		<data>
@@ -175,56 +183,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TnSXTGuefpKjp+7LlWmLwFMmtc+Mh09Vqva4Vfoo3r8=
+			1FMZElzNJCtjMIsje5LAuSRqZFDNhSOmWVRC+DKuDNc=
 			</data>
 		</dict>
 		<key>CapturePictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZyF33vbIBvDpWA92oDCEBwl+xUykbFJ1A836I5sllDQ=
+			ACVpP0g0vL9JedCumP8IwU3uGQA8nvVqYr78FOQXE/E=
 			</data>
 		</dict>
 		<key>DisplayPictureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fUeaON8n4KLwwdAm3lRbu0VhRGUBpETi2kyuwf/aHeI=
+			503AWiGuQ4vRatn/+FxN9wKwBG5vKZH69EkO50fh1cw=
 			</data>
 		</dict>
 		<key>DocumentBackIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			juqNUdNcNq/7Rwdn+1Ejp4x7mhX4ZF+IxTRt9vZt7uM=
+			ybn6qhMVlB7N8b+z0QfdvEsy59F/9FLENW4ptFXH1BQ=
 			</data>
 		</dict>
 		<key>DocumentFrontIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hbma4kGOp6EjTbJGx1DkQOOSo/GGO53zEcCheUBXZxY=
+			vYnkHhKEseMA2a4BCuXbHFaySfDvRlE7FSUstJLQNw4=
 			</data>
 		</dict>
 		<key>DocumentFullIntroViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lC0SJIZ1OaJhD+FAZ1fZu+GkVyU4hocRkFrLDr03Dd8=
+			dtW4imaSrQ1TPdraEQqdOgxWayjEcya2Hf4JXMoE2iY=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vXXL9hA275vFN+rtujCN7fuHjv2MenL/+5G6+zMeUYQ=
+			jZVkiAvhaltIigetTc+tcIywJ/LzaDd+9PIzSApL4RU=
 			</data>
 		</dict>
 		<key>FirstPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pps7FyIMHDUft+eL/drbp8P+mb9d44tMLxo2NHn0WNM=
+			Nmb/sGOaWNAgYOgAYlxZ1/q0Vf+UijlD3vbSNPvLXQE=
 			</data>
 		</dict>
 		<key>Headers/ImageAnalysisBridge.h</key>
@@ -238,7 +246,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FLppe6shOuGQtc2Zfd6kiW4I+r/sWfD3eRuqcTo4g3Q=
+			e3ceU/5sQVBMYPX2WLgemSKEy3OHB86HCa5jFdTfoxU=
 			</data>
 		</dict>
 		<key>Headers/ZaigIosOCR.h</key>
@@ -252,42 +260,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4r7VSVprl8acftKKD7yj2NmBVTwMAhgEtThNWlxSH8=
+			3z+8xYv/bqfBSgLdMSMB/8r5RqS05mF7QivJcY2cT6s=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosOCR.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4r7VSVprl8acftKKD7yj2NmBVTwMAhgEtThNWlxSH8=
+			3z+8xYv/bqfBSgLdMSMB/8r5RqS05mF7QivJcY2cT6s=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQV+IDC0M3IwDLzj/qxvmv83rrRe4RarCaItoPSFDN4=
+			ctZ5Ip7pDWnBqvaW8s858XPzr7Oqx0ZsMaAUzuukk3g=
+			</data>
+		</dict>
+		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6QGrvfqFd7QKHzLAmxWAiY3Y3d6s1671uhhV4zu6B78=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IdYhPVrE1wpI0rhrxqBM89Y5duk43omLQWHqR/loNWE=
+			TT1qQEl0KH9yRhwxWnSlbQ9LM+bmc9up1TTTRR222q8=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQV+IDC0M3IwDLzj/qxvmv83rrRe4RarCaItoPSFDN4=
+			ctZ5Ip7pDWnBqvaW8s858XPzr7Oqx0ZsMaAUzuukk3g=
+			</data>
+		</dict>
+		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6QGrvfqFd7QKHzLAmxWAiY3Y3d6s1671uhhV4zu6B78=
 			</data>
 		</dict>
 		<key>Modules/ZaigIosOCR.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IdYhPVrE1wpI0rhrxqBM89Y5duk43omLQWHqR/loNWE=
+			TT1qQEl0KH9yRhwxWnSlbQ9LM+bmc9up1TTTRR222q8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -371,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SbDh/9j9bj8GETFv1jVkVz1FGTBnQsgj+xrIu38LUQk=
+			DQIjVa83PXP5RGp6aqFAr/a0Kp4++4POfjYShi/QEgw=
 			</data>
 		</dict>
 		<key>back_button.png</key>
