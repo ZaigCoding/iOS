@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.homepage              = "https://github.com/ZaigCoding/iOS"
     s.license               = { :type => 'ProprietarySoftware'}
     s.author                = { 'suporte@zaig.com.br' => 'suporte@zaig.com.br' }
-    s.source                = { :http => "https://github.com/ZaigCoding/iOS/raw/master/frameworks/ZaigIosFaceRecon.xcframework.zip" }
+    s.source                = { :http => "https://github.com/ZaigCoding/iOS/raw/master/frameworks/1-6-5-ZaigIosFaceRecon.xcframework.zip" }
     s.vendored_frameworks   = "ZaigIosFaceRecon.xcframework"
     s.platform              = :ios
     s.swift_version         = "5"
