@@ -9,9 +9,10 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "ZaigIosFaceRecon.xcframework"
     s.platform     = :ios
     s.swift_version = "5"
-    s.ios.deployment_target  = '12.0'
+    s.ios.deployment_target = '13.0'
     s.dependency 'GoogleMLKit/FaceDetection', '= 3.2.0'
     s.dependency 'DatadogSDK'
+    s.static_framework = true
 
     s.user_target_xcconfig = { 
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' 
