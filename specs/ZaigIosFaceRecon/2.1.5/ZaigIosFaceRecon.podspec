@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "ZaigIosFaceRecon.xcframework"
     s.platform     = :ios
     s.swift_version = "5"
-    s.ios.deployment_target  = '12.0'
+    s.ios.deployment_target  = '13.0'
     s.dependency 'GoogleMLKit/FaceDetection', '= 3.2.0'
     s.dependency 'DatadogCore'
     s.dependency 'DatadogCrashReporting'
