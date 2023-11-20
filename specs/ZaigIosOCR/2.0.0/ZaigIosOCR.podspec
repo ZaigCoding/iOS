@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
     s.dependency 'DatadogCore'
     s.dependency 'DatadogCrashReporting'
     s.dependency 'DatadogLogs'
+    s.static_framework      = true
 
     s.user_target_xcconfig = {
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
