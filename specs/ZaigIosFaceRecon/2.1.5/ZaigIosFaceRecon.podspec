@@ -16,11 +16,15 @@ Pod::Spec.new do |s|
     s.dependency 'DatadogLogs'
 
 
-    s.user_target_xcconfig = { 
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' 
-    }
-    s.pod_target_xcconfig = {
+    s.user_target_xcconfig = {
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-    }
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+    'IPHONEOS_DEPLOYMENT_TARGET' => '12.0'
+  }
+  
+  s.pod_target_xcconfig = {
+    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+    'IPHONEOS_DEPLOYMENT_TARGET' => '12.0'
+  }
 end
