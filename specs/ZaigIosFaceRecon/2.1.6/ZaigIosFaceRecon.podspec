@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.platform     = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '13.0'
-    s.dependency 'GoogleMLKit/FaceDetection', '= 3.2.0'
+    s.dependency 'GoogleMLKit/FaceDetection', '= 4.0.0'
     s.dependency 'DatadogCore', '= 2.5.0'
     s.dependency 'DatadogCrashReporting', '= 2.5.0'
     s.dependency 'DatadogLogs', '= 2.5.0'
