@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
     s.dependency 'DatadogCore', '>= 2.5.0', '<= 2.9.0'
     s.dependency 'DatadogCrashReporting', '>= 2.5.0', '<= 2.9.0'
     s.dependency 'DatadogLogs', '>= 2.5.0', '<= 2.9.0'
+    s.dependency 'DatadogInternal', '>= 2.5.0', '<= 2.9.0'
 
 
     s.user_target_xcconfig = {
