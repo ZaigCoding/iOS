@@ -10,9 +10,6 @@ Pod::Spec.new do |s|
     s.platform = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '15.5'
-    s.dependency 'DatadogCore', '~> 2.0'
-    s.dependency 'DatadogCrashReporting', '~> 2.0'
-    s.dependency 'DatadogLogs', '~> 2.0'
 
     s.static_framework = true
   
